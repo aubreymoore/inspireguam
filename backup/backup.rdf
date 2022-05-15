@@ -1,0 +1,328 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/">
+    <bib:Article rdf:about="#item_4481">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>17</prism:volume>
+                <dc:title>Artocarpus altilis</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ragone</foaf:surname>
+                        <foaf:givenName>Diane</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4482"/>
+        <dc:title>Breadfruit</dc:title>
+        <dc:date>1997</dc:date>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_4482">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/4482/Ragone - 1997 - Breadfruit.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/profile/Diane-Ragone/publication/237250411_Farm_and_Forestry_Production_and_Marketing_Profile_for_Breadfruit_Artocarpus_altilis/links/0c960533af95836853000000/Farm-and-Forestry-Production-and-Marketing-Profile-for-Breadfruit-Artocarpus-altilis.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-05-12 03:39:17</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_4489">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <prism:volume>42</prism:volume><dc:title>Micronesica</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dixon</foaf:surname>
+                        <foaf:givenName>Boyd</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Walker</foaf:surname>
+                        <foaf:givenName>Samuel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Golabi</foaf:surname>
+                        <foaf:givenName>Mohammad</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Manner</foaf:surname>
+                        <foaf:givenName>Harley</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4488"/>
+        <dc:title>Latte Period Agricultural Sites</dc:title>
+        <dcterms:abstract>—Sixteenth-Century European sailors briefly visiting the island
+of Guam noted the availability of tropical plant foods they recognized or
+thought similar to those from the Old and New Worlds such as coconuts,
+sweet potatoes, bananas, rice, and sugarcane, plus edible plants with
+which they had less familiarity such as breadfruit, yams, and taro. Almost
+a century later, early clergy in the Mariana Islands recorded Chamorro
+inhabitants actively cultivating a range of domestic plants in a number of
+settings, while also collecting indigenous flora in the tropical forest.
+Today archaeologists in the region routinely record material evidence of
+processing, preparation, and consumption of these plant foods in
+prehistoric habitation sites, although corroboration of indigenous
+agriculture in the non-habitation landscape remains elusive. This study
+presents an analysis of organic, chemical, and textural constituents of
+soils derived from systematic sampling of two probable latte period
+agricultural sites situated in northern Guam, and a comparison of these
+data with specific plants that may have been cultivated there and their
+traditional farming techniques. Far from being a definitive exposé on the
+subject, these approaches and their interpretation are in their infancy and
+can benefit from replication, innovation, and suggestion across the island
+group.</dcterms:abstract>
+        <dc:date>2012</dc:date>
+        <bib:pages>209-257</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_4488">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/4488/Two probable latte period agricultural sites in northern Guam Their plants, soils, and interpretations.pdf"/>
+        <dc:title>Two probable latte period agricultural sites in northern Guam: Their plants, soils, and interpretations</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://micronesica.org/sites/default/files/6_dixon_pp209-257.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-05-13 06:38:37</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S0261219419302662">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:02612194"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Balendres</foaf:surname>
+                        <foaf:givenName>M.A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bengoa</foaf:surname>
+                        <foaf:givenName>J.C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4490"/>
+        <dc:title>Diseases of dragon fruit (Hylocereus species): Etiology and current management options</dc:title>
+        <dc:date>12/2019</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Diseases of dragon fruit (Hylocereus species)</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S0261219419302662</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-05-13 06:44:43</dcterms:dateSubmitted>
+        <bib:pages>104920</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:02612194">
+        <prism:volume>126</prism:volume>
+        <dc:title>Crop Protection</dc:title>
+        <dc:identifier>DOI 10.1016/j.cropro.2019.104920</dc:identifier>
+        <dcterms:alternative>Crop Protection</dcterms:alternative>
+        <dc:identifier>ISSN 02612194</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_4490">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/4490/Balendres and Bengoa - 2019 - Diseases of dragon fruit (Hylocereus species) Eti.pdf"/>
+        <dc:title>Balendres and Bengoa - 2019 - Diseases of dragon fruit (Hylocereus species) Eti.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pdf.sciencedirectassets.com/271154/1-s2.0-S0261219419X00095/1-s2.0-S0261219419302662/am.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEH4aCXVzLWVhc3QtMSJIMEYCIQC%2B7rh4a31JPnKNiwi6pqOFCWmbXsRhgKlgH9s%2BwoydiwIhAPLvFbHldQU9Gl%2FGV0Lf0op40AhZ%2BtH7z79t120Vha3BKtIECFcQBBoMMDU5MDAzNTQ2ODY1IgwTg5azIahDeSETq1EqrwSVrEcJMuql3Xzdm8R8fQoJASKgDwBQBpvgCkuiqVom%2FHjcQAcMWf4CdZPoGzlfoGIFu%2FwPLT73OIKyOaB09Ve2u7uQ84y9BK8GryQ2Hq%2BNC13%2BU70aA9RsPCJCY%2B2ExbulBfQISri9i%2FqMpCZxOYOvdam8dLxXeLne37gfsbVzYsDJcPXKUB%2BAHKppu5Fn7a5ErUR9wo3CYskiPp4HxvCPPc8U1tbSOf%2BjxVmyTT6iUb7XrnQMwIMPe%2Fq9DyaWqhcBmYaLPcprzNcDiQ0jByiYvNq4x4pHF9eK88h5IC6KpS43xZv1waOnqQsoqxivxrBNWup8XZomPoSstSYMrmKyBTgQJtPtmfFAmhtwPfOO2x21E4f99D%2F1tcK%2B28QzwuExMK8N5ZFfrD4uehQEWvARXlraHdM6NayCxOH3i0wRyNkv8JwPly0ExA4AAsCZ4%2FNFy0vLzCxjAWYJJ2X5ndAzKeBCeoyGofvQ5wSp9RNPxhEKkrvqMKci73SKq1dylNpHxHPNmuVWlvmJu2bzJNTmqv4tSm6G3pnEexiUTRksrIfBbCGqnKCdqLZHdRlTfT88890nZ420X%2BO1qWk%2B28%2Bpxoei7SyICF6RvenjxtNXx077onTQ3fzkNNssB%2FatxegmKLSWwnulolu0XNW%2Fx812mX%2FOwt%2F5oGq75Ct%2FCkmeSB8FjvG7RlvHrKQZd8evCW7SIVROUjsWUyGHF6vsJcd96eT4dSlLsRph8KwV4mNHMPDd95MGOqgBYxHxFB73i18v67GZwBv3aerVJm%2BCbLr9z5%2BlXLM4u7iZGMGL00DASXIoij3RZELxl%2BK8Feo6pRpiyeIhgK18kK%2Fpb9DEwaHNTLW%2FvnqMLUiC%2BH9WJ0ZaLR6ZfxK3ZDaju9m9I03f6kS8s6O6QnyV0aButcpoXoS7A6nwNyjIqEpEeFcEu7hmbWVuU63%2Feu62KkLlMBgDglignz46qLFWFyFRNbV28Njp&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Date=20220513T064426Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=300&amp;X-Amz-Credential=ASIAQ3PHCVTY7XDIDMVH%2F20220513%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Signature=4b9ffb574d4991205b27c46b2ecae17ff17d87defc76794f94d06b939fc9f82b&amp;hash=9203f61ad93590f9d9486de328b0f27272a71ed0398d7684c979fc8e421d0a49&amp;host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&amp;pii=S0261219419302662&amp;tid=pdf-ada67803-28dd-49b6-8b95-270219b238cb&amp;sid=dc07e81e8cff5045f36a0a056e00f816ec40gxrqa&amp;type=client</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-05-13 06:44:38</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.uog.edu/extension/popular-publications.php">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_4497"/>
+        <dc:title>Popular Publications | Cooperative Extension &amp; Outreach</dc:title>
+        <dcterms:abstract>Situated in the heart of Mangilao overlooking beautiful Pago Bay, the University of Guam campus boasts a breathtaking ocean view, cool breezes, and modern, island-inspired architecture.</dcterms:abstract>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.uog.edu/extension/popular-publications.php</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-05-13 07:24:27</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_4497">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/4497/popular-publications.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.uog.edu/extension/popular-publications</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-05-13 07:24:37</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="https://www.uog.edu/_resources/files/extension/Sheet_Mulching_TB002_19.pdf">
+        <z:itemType>document</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Barber</foaf:surname>
+                        <foaf:givenName>L. Robert</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Acosta</foaf:surname>
+                        <foaf:givenName>Mark</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wall</foaf:surname>
+                        <foaf:givenName>Phoebe</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cruz</foaf:surname>
+                        <foaf:givenName>Frank</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Denney</foaf:surname>
+                        <foaf:givenName>Peggy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4499"/>
+        <dc:title>SHEET MULCHING</dc:title>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.uog.edu/_resources/files/extension/Sheet_Mulching_TB002_19.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_4499">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/4499/Barber et al. - SHEET MULCHING.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://projects.sare.org/wp-content/uploads/Sheet-Mulching-TB002-191.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-05-13 07:28:04</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_4500">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>30</prism:volume>
+                <dc:title>MICRONESICA-AGANA-</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Marutani</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brown</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cruz</foaf:surname>
+                        <foaf:givenName>F.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wall</foaf:surname>
+                        <foaf:givenName>G.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4501"/>
+        <dc:title>Agricultural crop production on Guam during the 20th century</dc:title>
+        <dc:date>1997</dc:date>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:description>Publisher: THE UNIVERSITY OF GUAM PRESS</dc:description>
+        <bib:pages>389–415</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_4501">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/4501/Marutani et al. - 1997 - Agricultural crop production on Guam during the 20.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://micronesica.org/sites/default/files/6_-_marutaniocr_1.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-05-13 07:29:20</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_4502">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/4502/Soil_Sampling_1998.pdf"/>
+        <dc:title>Soil_Sampling_1998.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.uog.edu/_resources/files/extension/publications/Soil_Sampling_1998.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-05-13 07:39:44</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+</rdf:RDF>
